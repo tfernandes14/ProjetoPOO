@@ -1,0 +1,20 @@
+Local: Viana do Castelo, 1/Bar: Centro Historico Bar, 10-18, 5, 2.5, 2.5/Universidade: IPVC, 7-20, Computacao Grafica e Multimedia/Museu: Museu do Traje, 10-18, 2, Universidade/Parque Tematico: Fun Park, 9-18, 14, Ratos
+Local: Vila Real, 2/Bar: Quilate 24 Bar, 15-00, 7, 1, 0/Universidade: UTAD, 7-20, Multimedia/Museu: Museu de Arqueologia, 11-17, 1.5, Arqueologia/Parque Cultural: Jardim da Carreira, 00-00, 0
+Local: Braganca, 3/Bar: Lagoa Azul Bar, 11-16, 9, 0, 0/Universidade: IPB, 7-20, Informatica de Gestao$Informatica e Comunicacoes/Museu: Museu do Abade, 11-17, 4, Religiao/Parque Aquatico: Eixo Atlantico, 10-18, 14, 2, 5, false, 0
+Local: Braga, 4/Bar: Rossio Bar, 22-03, 2, 3, 0/Universidade: UM, 7-20, Telecomunicacoes e Informatica$Ciencias da Computacao/Museu: Museu Pio XII, 11-17, 1, Monarquia/Parque Cultural: Jardim de Santa Barbara, 09-22, 0.50
+Local: Porto, 5/Bar: Costa Coffe, 10-00, 8, 0, 0/Universidade: UP, 7-20, Redes e Sistemas Informaticos/Museu: Museu de Serralves, 10-16, 3, Cultura/Parque Tematico: Sealife, 10-22, 8.5, Animais
+Local: Aveiro, 6/Bar: Bodegas Bar, 20-05, 10, 0, 0/Universidade: UA, 7-20, Computadores e Telematica/Museu: Museu de Santa Joana Princesa, 10-16, 2, Cultura/Parque Aquatico: Vagasplash, 9-19, 11, 3, 3, false, 0
+Local: Coimbra, 0/Bar: Moelas Bar, 11-19, 6, 0, 0/Universidade: UC, 7-20, Seguranca Informatica$Design e Multimedia/Museu: Museu Machado de Castro, 9-21, 0, Cultura/Parque Cultural: Jardim da Sereia, 00-00, 0
+Local: Viseu, 7/Bar: Celta Bar, 12-20, 1, 5, 2/Universidade: IPV, 7-20, Tecnolodias e Design de Multimedia/Museu: Museu Almeida Moreira, 10-18, 0, Historia/Parque Tematico: Parque dos Estojos, 14-15, 12.5, Estojos
+Local: Guarda, 8/Bar: Blue Bar, 21-05, 2, 2, 1/Universidade: IPG, 7-20, Design e Multimedia/Museu: Museu da Guarda, 11-17, 1, Historia/Parque Cultural: Jardim Municipal Jose de Lemos, 0-0, 0
+Local: Castelo Branco, 9/Bar: Altios Bar, 14-20, 3, 4, 0/Universidade: IPCB, 7-20, Redes e Sistemas Informaticos/Museu: Museu Cargaleiro, 9-16, 3, Arte/Parque Cultural: Jardim do Paco, 00-00, 0.50
+Local: Leiria, 10/Bar: Yellow Bar, 23-06, 4, 0, 2/Universidade: IPL, 7-20, Design Grafico e Multimedia/Museu: Museu Escolar, 9-11, 8, Escola/Parque Aquatico: Praia das Rocas, 8-22, 9, 4, 6, false, 0
+Local: Santarem, 11/Bar: Nessie Bar, 07-15, 5, 1, 0/Universidade: IPS, 7-20, Informatica/Museu: Museu Municipal de Santarem, 18-24, 2, Cultura/Parque Cultural: Jardim das Portas do Sol, 0-0, 0
+Local: Portalegre, 12/Bar: Imprevist Bar, 00-10, 6, 0, 5/Universidade: IPP, 7-20, Design e Animacao Multimedia/Museu: Museu da Tapecaria, 14-20, 7, Tapetes/Parque Cultural: Jardim da Corredoura, 7-0, 0
+Local: Lisboa, 13/Bar: Lisboa Bar, 01-11, 7, 10, 4/Universidade: FCUL, 7-20, Quimica Tecnologica$Tecnologias de Informacoes/Museu: Museu Nacional de Arte Antiga, 13-20, 9, Arte/Parque Tematico: KidZania, 9-19, 15, Profissoes
+Local: Evora, 14/Bar: BUGS Bar, 22-17, 8, 0, 5/Universidade: UE, 7-20, Biotecnologia/Museu: Museu do Relogio, 11-17, 3.5, Relogios/Parque Cultural: Jardim dos Colegiais, 0-0, 0
+Local: Setubal, 15/Bar: Elevens Bar, 14-23, 9, 2, 0/Universidade: IPS, 7-20, Bioinformatica/Museu: Museu do Trabalho, 11-17, 1.5, Trabalho/Parque Cultural: Jardim Camilo Castelo Branco, 0-0, 0
+Local: Beja, 16/Bar: Karga Club Barm, 17-02, 4, 1, 1/Universidade: IPB, 7-20, Tecnologias Bioanaliticas/Museu: Museu da Farmacia, 11-18, 2, Farmacia/Parque Cultural: Jardim das Alcacarias, 0-0, 2.5
+Local: Faro, 17/Bar: Ditadura Bar, 14-23, 8, 7, 4/Universidade: UAlg, 7-20, Imagem Animada/Museu: Museu Regional do Algarve, 11-17, 0, Cultura/Parque Aquatico: Aquashow, 10-19, 16, 11, 20, true, 3.5
+Local: Madeira, 18/Bar: Madeira Bar, 15-00, 4, 2, 0/Universidade: UMA, 7-20, Multimedia/Museu: Museu do Vinho, 11-19, 4.5, Vinho/Parque Cultural: Jardim das Flores, 0-0, 0
+Local: Sao Miguel, 19/Bar: CUM Bar, 19-05, 7, 3, 2/Universidade: UAC, 7-20, Redes e Multimedia/Museu: Museu Carlos Machado, 11-18, 6.5, Cultura/Parque Cultural: Jardim Antonio Borges, 0-0, 0
